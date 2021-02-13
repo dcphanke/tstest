@@ -1,0 +1,1056 @@
+{
+    "SupplierItemGUID": "",
+    "OrderCartName": "Original (configure options)",
+    "SuplItemNo": "P1211",
+    "ItemName": "Seaside Zippered Cotton Tote",
+    "SuplDisplayNo": "Gemline",
+    "SuplDisplayName": null,
+    "Description": "Sturdy cotton canvas boat tote <br> Front slash pocket <br> Large main compartment with zippered closure <br> Interior zippered pocket for storing accessories <br> Reinforced webbed handles for durability <br> Antique brass rivets provide added appeal <br> 23\" shoulder straps",
+    "AddInfo": null,
+    "DistributorOnlyInfo": null,
+    "Size": "21 L x 9 W x 16.5 H",
+    "Weight": "2 LB",
+    "OrigZip": null,
+    "ActiveItemStartDate": "2017-01-01T00:00:00",
+    "ActiveItemEndDate": "2050-12-31T00:00:00",
+    "DisplayItemStartDate": "2017-01-01T00:00:00",
+    "DisplayItemEndDate": "2050-12-31T00:00:00",
+    "CountryofManufacturerAbbrev": "IN",
+    "ShowNoPricing": false,
+    "ImprintAreaLimit": null,
+    "Increment": 1,
+    "BrandImage": null,
+    "TemplateLink": null,
+    "MarketingLink": null,
+    "SpecificationLink": null,
+    "Pricing": [
+      {
+        "Qty": 25,
+        "Net": 15.270,
+        "RetailPrice": 30.54,
+        "DistMargin": "P",
+        "ItemPricesStartDate": "2017-01-01T00:00:00",
+        "ItemPricesEndDate": "2050-12-31T00:00:00",
+        "InternetDisplay": true,
+        "Setup": false,
+        "PriceTierName": "Default",
+        "ProductVersionName": "Regular",
+        "CurrencyName": "USD",
+        "UnitofMeasureName": "As Low As - Each"
+      },
+      {
+        "Qty": 50,
+        "Net": 14.4100,
+        "RetailPrice": 26.20,
+        "DistMargin": "Q",
+        "ItemPricesStartDate": "2017-01-01T00:00:00",
+        "ItemPricesEndDate": "2050-12-31T00:00:00",
+        "InternetDisplay": true,
+        "Setup": false,
+        "PriceTierName": "Default",
+        "ProductVersionName": "Regular",
+        "CurrencyName": "USD",
+        "UnitofMeasureName": "As Low As - Each"
+      },
+      {
+        "Qty": 100,
+        "Net": 13.7220,
+        "RetailPrice": 22.87,
+        "DistMargin": "R",
+        "ItemPricesStartDate": "2017-01-01T00:00:00",
+        "ItemPricesEndDate": "2050-12-31T00:00:00",
+        "InternetDisplay": true,
+        "Setup": false,
+        "PriceTierName": "Default",
+        "ProductVersionName": "Regular",
+        "CurrencyName": "USD",
+        "UnitofMeasureName": "As Low As - Each"
+      },
+      {
+        "Qty": 300,
+        "Net": 13.1940,
+        "RetailPrice": 21.99,
+        "DistMargin": "R",
+        "ItemPricesStartDate": "2017-01-01T00:00:00",
+        "ItemPricesEndDate": "2050-12-31T00:00:00",
+        "InternetDisplay": true,
+        "Setup": false,
+        "PriceTierName": "Default",
+        "ProductVersionName": "Regular",
+        "CurrencyName": "USD",
+        "UnitofMeasureName": "As Low As - Each"
+      }
+    ],
+    "Shipping": null,
+    "ProductVersions": [
+      {
+        "ProductVersionName": "Regular",
+        "ProductionTime": 10
+      }
+    ],
+    "ProductImages": [
+      {
+        "ImageURL": "http://media.gemline.com/products/1211/images/seaside-zippered-cotton-tote-black-1211.jpg",
+        "PrimaryImage": true
+      },
+      {
+        "ImageURL": "http://media.gemline.com/products/1211/images/seaside-zippered-cotton-tote-black-1211-blank.jpg",
+        "PrimaryImage": false
+      },
+      {
+        "ImageURL": "http://media.gemline.com/products/1212/images/seaside-zippered-cotton-tote-navy-blue-1212.jpg",
+        "PrimaryImage": false
+      },
+      {
+        "ImageURL": "http://media.gemline.com/products/1212/images/seaside-zippered-cotton-tote-navy-blue-1212-alternate-1.jpg",
+        "PrimaryImage": false
+      },
+      {
+        "ImageURL": "http://media.gemline.com/products/1212/images/seaside-zippered-cotton-tote-navy-blue-1212-alternate-2.jpg",
+        "PrimaryImage": false
+      },
+      {
+        "ImageURL": "http://media.gemline.com/products/1212/images/seaside-zippered-cotton-tote-navy-blue-1212-alternate-3.jpg",
+        "PrimaryImage": false
+      },
+      {
+        "ImageURL": "http://media.gemline.com/products/1212/images/seaside-zippered-cotton-tote-navy-blue-1212-alternate-4.jpg",
+        "PrimaryImage": false
+      },
+      {
+        "ImageURL": "http://media.gemline.com/products/1212/images/seaside-zippered-cotton-tote-navy-blue-1212-blank.jpg",
+        "PrimaryImage": false
+      },
+      {
+        "ImageURL": "http://media.gemline.com/products/1214/images/seaside-zippered-cotton-tote-navy-blue-striped-1214.jpg",
+        "PrimaryImage": false
+      },
+      {
+        "ImageURL": "http://media.gemline.com/products/1214/images/seaside-zippered-cotton-tote-navy-blue-striped-1214-blank.jpg",
+        "PrimaryImage": false
+      }
+    ],
+    "ProductCategories": [
+      "Bags - Tote"
+    ],
+    "RecommendedItems": null,
+    "DCAttributes": [
+      {
+        "productAttributeName": "brand",
+        "productAttributeGUID": null,
+        "productAttributeValueGUID": null,
+        "supplierItemGUID": null,
+        "value": "Gemline"
+      },
+      {
+        "productAttributeName": "bulletPoint1",
+        "productAttributeGUID": null,
+        "productAttributeValueGUID": null,
+        "supplierItemGUID": null,
+        "value": "Sturdy cotton canvas boat tote"
+      },
+      {
+        "productAttributeName": "bulletPoint2",
+        "productAttributeGUID": null,
+        "productAttributeValueGUID": null,
+        "supplierItemGUID": null,
+        "value": "Front slash pocket"
+      },
+      {
+        "productAttributeName": "bulletPoint3",
+        "productAttributeGUID": null,
+        "productAttributeValueGUID": null,
+        "supplierItemGUID": null,
+        "value": "Large main compartment with zippered closure"
+      },
+      {
+        "productAttributeName": "bulletPoint4",
+        "productAttributeGUID": null,
+        "productAttributeValueGUID": null,
+        "supplierItemGUID": null,
+        "value": "Interior zippered pocket for storing accessories"
+      },
+      {
+        "productAttributeName": "bulletPoint5",
+        "productAttributeGUID": null,
+        "productAttributeValueGUID": null,
+        "supplierItemGUID": null,
+        "value": "Reinforced webbed handles for durability"
+      },
+      {
+        "productAttributeName": "keyword1",
+        "productAttributeGUID": null,
+        "productAttributeValueGUID": null,
+        "supplierItemGUID": null,
+        "value": "fashion"
+      },
+      {
+        "productAttributeName": "keyword2",
+        "productAttributeGUID": null,
+        "productAttributeValueGUID": null,
+        "supplierItemGUID": null,
+        "value": "style"
+      },
+      {
+        "productAttributeName": "keyword3",
+        "productAttributeGUID": null,
+        "productAttributeValueGUID": null,
+        "supplierItemGUID": null,
+        "value": "trend"
+      },
+      {
+        "productAttributeName": "keyword4",
+        "productAttributeGUID": null,
+        "productAttributeValueGUID": null,
+        "supplierItemGUID": null,
+        "value": "totebag"
+      },
+      {
+        "productAttributeName": "keyword5",
+        "productAttributeGUID": null,
+        "productAttributeValueGUID": null,
+        "supplierItemGUID": null,
+        "value": "totebags"
+      },
+      {
+        "productAttributeName": "itemColors",
+        "productAttributeGUID": null,
+        "productAttributeValueGUID": null,
+        "supplierItemGUID": null,
+        "value": "[\"Black\"]"
+      }
+    ],
+    "Options": [
+      {
+        "ItemOptionGUID": "00000000-0000-0000-0000-000000000000",
+        "OptionType": "Product Color Information",
+        "SuplItemOptionNo": "PCI-P1211",
+        "OptionName": "Product Color",
+        "ProductVersionNames": null,
+        "SuplItemOptionDisplayNo": null,
+        "SuplItemOptionDisplayName": null,
+        "Optional": false,
+        "OptionDescription": null,
+        "FreeOptions": 0,
+        "MinOptionQty": null,
+        "MaxOptionQty": null,
+        "MinMainQty": null,
+        "MaxMainQty": null,
+        "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+        "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+        "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+        "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+        "OrderQuestion": "Select the product color.",
+        "OrderFormType": "Choice Checkbox",
+        "BoundOptionName": null,
+        "SortOrder": 1,
+        "ImprintLocations": null,
+        "OptionPricing": null,
+        "OptionImages": null,
+        "Choices": [
+          {
+            "ItemOptionChoiceGUID": null,
+            "OptionType": null,
+            "SupplierItemOptionChoiceNo": "1211",
+            "ItemOptionChoiceName": "Black",
+            "ProductVersionNames": null,
+            "SupplierItemOptionChoiceDisplayNo": "",
+            "SupplierItemOptionChoiceDisplayName": "",
+            "ItemOptionDescription": "",
+            "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+            "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+            "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+            "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+            "HexNo": null,
+            "IsCustom": false,
+            "OrderValue": 1,
+            "MinMainQty": null,
+            "MaxMainQty": null,
+            "MinChoiceQty": null,
+            "MaxChoiceQty": null,
+            "SortOrder": 1,
+            "ChoicePricing": [
+              {
+                "Qty": 25,
+                "Net": 15.270,
+                "RetailPrice": 30.54,
+                "DistMargin": "P",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 50,
+                "Net": 14.4100,
+                "RetailPrice": 26.20,
+                "DistMargin": "Q",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 100,
+                "Net": 13.7220,
+                "RetailPrice": 22.87,
+                "DistMargin": "R",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 300,
+                "Net": 13.1940,
+                "RetailPrice": 21.99,
+                "DistMargin": "R",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              }
+            ],
+            "ChoiceImages": [
+              {
+                "ImageURL": "http://media.gemline.com/products/1211/images/seaside-zippered-cotton-tote-black-1211.jpg",
+                "PrimaryImage": true
+              }
+            ]
+          },
+          {
+            "ItemOptionChoiceGUID": null,
+            "OptionType": null,
+            "SupplierItemOptionChoiceNo": "1212",
+            "ItemOptionChoiceName": "Navy Blue",
+            "ProductVersionNames": null,
+            "SupplierItemOptionChoiceDisplayNo": "",
+            "SupplierItemOptionChoiceDisplayName": "",
+            "ItemOptionDescription": "",
+            "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+            "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+            "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+            "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+            "HexNo": null,
+            "IsCustom": false,
+            "OrderValue": 1,
+            "MinMainQty": null,
+            "MaxMainQty": null,
+            "MinChoiceQty": null,
+            "MaxChoiceQty": null,
+            "SortOrder": 2,
+            "ChoicePricing": [
+              {
+                "Qty": 25,
+                "Net": 15.270,
+                "RetailPrice": 30.54,
+                "DistMargin": "P",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 50,
+                "Net": 14.4100,
+                "RetailPrice": 26.20,
+                "DistMargin": "Q",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 100,
+                "Net": 13.7220,
+                "RetailPrice": 22.87,
+                "DistMargin": "R",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 300,
+                "Net": 13.1940,
+                "RetailPrice": 21.99,
+                "DistMargin": "R",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              }
+            ],
+            "ChoiceImages": [
+              {
+                "ImageURL": "http://media.gemline.com/products/1212/images/seaside-zippered-cotton-tote-navy-blue-1212.jpg",
+                "PrimaryImage": true
+              }
+            ]
+          },
+          {
+            "ItemOptionChoiceGUID": null,
+            "OptionType": null,
+            "SupplierItemOptionChoiceNo": "1214",
+            "ItemOptionChoiceName": "Navy Blue Striped",
+            "ProductVersionNames": null,
+            "SupplierItemOptionChoiceDisplayNo": "",
+            "SupplierItemOptionChoiceDisplayName": "",
+            "ItemOptionDescription": "",
+            "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+            "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+            "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+            "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+            "HexNo": null,
+            "IsCustom": false,
+            "OrderValue": 1,
+            "MinMainQty": null,
+            "MaxMainQty": null,
+            "MinChoiceQty": null,
+            "MaxChoiceQty": null,
+            "SortOrder": 3,
+            "ChoicePricing": [
+              {
+                "Qty": 25,
+                "Net": 15.270,
+                "RetailPrice": 30.54,
+                "DistMargin": "P",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 50,
+                "Net": 14.4100,
+                "RetailPrice": 26.20,
+                "DistMargin": "Q",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 100,
+                "Net": 13.7220,
+                "RetailPrice": 22.87,
+                "DistMargin": "R",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 300,
+                "Net": 13.1940,
+                "RetailPrice": 21.99,
+                "DistMargin": "R",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              }
+            ],
+            "ChoiceImages": [
+              {
+                "ImageURL": "http://media.gemline.com/products/1214/images/seaside-zippered-cotton-tote-navy-blue-striped-1214.jpg",
+                "PrimaryImage": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "ItemOptionGUID": "00000000-0000-0000-0000-000000000000",
+        "OptionType": "Decoration Information",
+        "SuplItemOptionNo": "DI-P1211-Print",
+        "OptionName": "Screenprinting",
+        "ProductVersionNames": null,
+        "SuplItemOptionDisplayNo": "",
+        "SuplItemOptionDisplayName": "",
+        "Optional": true,
+        "OptionDescription": "",
+        "FreeOptions": 1,
+        "MinOptionQty": 0,
+        "MaxOptionQty": null,
+        "MinMainQty": 1,
+        "MaxMainQty": null,
+        "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+        "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+        "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+        "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+        "OrderQuestion": "Select the Screenprinting",
+        "OrderFormType": "Choice Checkbox",
+        "BoundOptionName": "",
+        "SortOrder": null,
+        "ImprintLocations": [
+          {
+            "Item1": "4194615b-842d-4dc0-af9b-dce1b4c34c0a",
+            "Item2": 2
+          },
+          {
+            "Item1": "3eb3c6a7-577d-4020-a618-4757ac5471db",
+            "Item2": 5
+          }
+        ],
+        "OptionPricing": [],
+        "OptionImages": null,
+        "Choices": [
+          {
+            "ItemOptionChoiceGUID": null,
+            "OptionType": null,
+            "SupplierItemOptionChoiceNo": "DI-P1211-Print-1ColorPrint",
+            "ItemOptionChoiceName": "1 Color Print",
+            "ProductVersionNames": null,
+            "SupplierItemOptionChoiceDisplayNo": "",
+            "SupplierItemOptionChoiceDisplayName": "",
+            "ItemOptionDescription": "",
+            "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+            "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+            "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+            "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+            "HexNo": null,
+            "IsCustom": false,
+            "OrderValue": 1,
+            "MinMainQty": 1,
+            "MaxMainQty": null,
+            "MinChoiceQty": 1,
+            "MaxChoiceQty": null,
+            "SortOrder": 1,
+            "ChoicePricing": [
+              {
+                "Qty": 1,
+                "Net": 48.00,
+                "RetailPrice": 60.00,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": true,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              }
+            ],
+            "ChoiceImages": null
+          },
+          {
+            "ItemOptionChoiceGUID": null,
+            "OptionType": null,
+            "SupplierItemOptionChoiceNo": "DI-P1211-Print-AdditionalColorsPrint",
+            "ItemOptionChoiceName": "Additional Colors Print",
+            "ProductVersionNames": null,
+            "SupplierItemOptionChoiceDisplayNo": "",
+            "SupplierItemOptionChoiceDisplayName": "",
+            "ItemOptionDescription": "",
+            "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+            "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+            "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+            "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+            "HexNo": null,
+            "IsCustom": true,
+            "OrderValue": 1,
+            "MinMainQty": 1,
+            "MaxMainQty": null,
+            "MinChoiceQty": 1,
+            "MaxChoiceQty": null,
+            "SortOrder": 2,
+            "ChoicePricing": [
+              {
+                "Qty": 1,
+                "Net": 88.00,
+                "RetailPrice": 110.00,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": true,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 6,
+                "Net": 0.792,
+                "RetailPrice": 0.99,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 100,
+                "Net": 0.592,
+                "RetailPrice": 0.74,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 300,
+                "Net": 0.472,
+                "RetailPrice": 0.59,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 1000,
+                "Net": 0.36,
+                "RetailPrice": 0.45,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              }
+            ],
+            "ChoiceImages": null
+          }
+        ]
+      },
+      {
+        "ItemOptionGUID": "00000000-0000-0000-0000-000000000000",
+        "OptionType": "Decoration Information",
+        "SuplItemOptionNo": "DI-P1211-Embroidery",
+        "OptionName": "Embroidery",
+        "ProductVersionNames": null,
+        "SuplItemOptionDisplayNo": "",
+        "SuplItemOptionDisplayName": "",
+        "Optional": true,
+        "OptionDescription": "",
+        "FreeOptions": 1,
+        "MinOptionQty": 0,
+        "MaxOptionQty": null,
+        "MinMainQty": 1,
+        "MaxMainQty": null,
+        "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+        "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+        "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+        "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+        "OrderQuestion": "Select the Embroidery",
+        "OrderFormType": "Choice Checkbox",
+        "BoundOptionName": "",
+        "SortOrder": null,
+        "ImprintLocations": [
+          {
+            "Item1": "4f98bc81-c14b-4ced-834b-2d1229b5584b",
+            "Item2": 3
+          },
+          {
+            "Item1": "9efa34f6-ea51-460a-9e0a-cf2dd5adb7f3",
+            "Item2": 6
+          }
+        ],
+        "OptionPricing": [],
+        "OptionImages": null,
+        "Choices": [
+          {
+            "ItemOptionChoiceGUID": null,
+            "OptionType": null,
+            "SupplierItemOptionChoiceNo": "DI-P1211-Embroidery-7500",
+            "ItemOptionChoiceName": "Up to 7,500 stiches",
+            "ProductVersionNames": null,
+            "SupplierItemOptionChoiceDisplayNo": "",
+            "SupplierItemOptionChoiceDisplayName": "",
+            "ItemOptionDescription": "",
+            "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+            "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+            "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+            "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+            "HexNo": null,
+            "IsCustom": false,
+            "OrderValue": 1,
+            "MinMainQty": 1,
+            "MaxMainQty": null,
+            "MinChoiceQty": 1,
+            "MaxChoiceQty": null,
+            "SortOrder": 1,
+            "ChoicePricing": [
+              {
+                "Qty": 1,
+                "Net": 80.00,
+                "RetailPrice": 100.00,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": true,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 6,
+                "Net": 1.984,
+                "RetailPrice": 2.48,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 50,
+                "Net": 1.824,
+                "RetailPrice": 2.28,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 150,
+                "Net": 1.584,
+                "RetailPrice": 1.95,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 500,
+                "Net": 1.344,
+                "RetailPrice": 1.68,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              }
+            ],
+            "ChoiceImages": null
+          },
+          {
+            "ItemOptionChoiceGUID": null,
+            "OptionType": null,
+            "SupplierItemOptionChoiceNo": "DI-P1211-Embroidery-8500",
+            "ItemOptionChoiceName": "Up to 8,500 stiches",
+            "ProductVersionNames": null,
+            "SupplierItemOptionChoiceDisplayNo": "",
+            "SupplierItemOptionChoiceDisplayName": "",
+            "ItemOptionDescription": "",
+            "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+            "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+            "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+            "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+            "HexNo": null,
+            "IsCustom": true,
+            "OrderValue": 1,
+            "MinMainQty": 1,
+            "MaxMainQty": null,
+            "MinChoiceQty": 1,
+            "MaxChoiceQty": null,
+            "SortOrder": 2,
+            "ChoicePricing": [
+              {
+                "Qty": 1,
+                "Net": 90.00,
+                "RetailPrice": 112.50,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": true,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 6,
+                "Net": 2.296,
+                "RetailPrice": 2.87,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 50,
+                "Net": 2.136,
+                "RetailPrice": 2.67,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 150,
+                "Net": 1.896,
+                "RetailPrice": 2.37,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 500,
+                "Net": 1.656,
+                "RetailPrice": 2.07,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              }
+            ],
+            "ChoiceImages": null
+          }
+        ]
+      },
+      {
+        "ItemOptionGUID": "00000000-0000-0000-0000-000000000000",
+        "OptionType": "Decoration Information",
+        "SuplItemOptionNo": "DI-P1211-HeatTransfer",
+        "OptionName": "Heat Transfer",
+        "ProductVersionNames": null,
+        "SuplItemOptionDisplayNo": "",
+        "SuplItemOptionDisplayName": "",
+        "Optional": true,
+        "OptionDescription": "",
+        "FreeOptions": 1,
+        "MinOptionQty": 0,
+        "MaxOptionQty": null,
+        "MinMainQty": 1,
+        "MaxMainQty": null,
+        "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+        "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+        "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+        "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+        "OrderQuestion": "Select the Heat Transfer",
+        "OrderFormType": "Choice Checkbox",
+        "BoundOptionName": "",
+        "SortOrder": null,
+        "ImprintLocations": [
+          {
+            "Item1": "a6b8ce84-8f08-4eaa-b36e-e05a755941ee",
+            "Item2": 4
+          }
+        ],
+        "OptionPricing": [],
+        "OptionImages": null,
+        "Choices": [
+          {
+            "ItemOptionChoiceGUID": null,
+            "OptionType": null,
+            "SupplierItemOptionChoiceNo": "DI-P1211-HeatTransfer-1ColorHeatTransfer",
+            "ItemOptionChoiceName": "1 Color Heat Transfer",
+            "ProductVersionNames": null,
+            "SupplierItemOptionChoiceDisplayNo": "",
+            "SupplierItemOptionChoiceDisplayName": "",
+            "ItemOptionDescription": "",
+            "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+            "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+            "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+            "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+            "HexNo": null,
+            "IsCustom": false,
+            "OrderValue": 1,
+            "MinMainQty": 1,
+            "MaxMainQty": null,
+            "MinChoiceQty": 1,
+            "MaxChoiceQty": null,
+            "SortOrder": 1,
+            "ChoicePricing": null,
+            "ChoiceImages": null
+          },
+          {
+            "ItemOptionChoiceGUID": null,
+            "OptionType": null,
+            "SupplierItemOptionChoiceNo": "DI-P1211-HeatTransfer-AdditionalColorsHeatTransfer",
+            "ItemOptionChoiceName": "Additional Colors Heat Transfer",
+            "ProductVersionNames": null,
+            "SupplierItemOptionChoiceDisplayNo": "",
+            "SupplierItemOptionChoiceDisplayName": "",
+            "ItemOptionDescription": "",
+            "ItemOptionActiveStartDate": "2017-01-01T00:00:00",
+            "ItemOptionActiveEndDate": "2050-12-31T00:00:00",
+            "ItemOptionDisplayStartDate": "2017-01-01T00:00:00",
+            "ItemOptionDisplayEndDate": "2050-12-31T00:00:00",
+            "HexNo": null,
+            "IsCustom": true,
+            "OrderValue": 1,
+            "MinMainQty": 1,
+            "MaxMainQty": null,
+            "MinChoiceQty": 1,
+            "MaxChoiceQty": null,
+            "SortOrder": 2,
+            "ChoicePricing": [
+              {
+                "Qty": 50,
+                "Net": 1.992,
+                "RetailPrice": 2.49,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 100,
+                "Net": 1.792,
+                "RetailPrice": 2.24,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 250,
+                "Net": 1.352,
+                "RetailPrice": 1.69,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              },
+              {
+                "Qty": 500,
+                "Net": 1.144,
+                "RetailPrice": 1.43,
+                "DistMargin": "V",
+                "ItemPricesStartDate": "2017-01-01T00:00:00",
+                "ItemPricesEndDate": "2050-12-31T00:00:00",
+                "InternetDisplay": true,
+                "Setup": false,
+                "PriceTierName": "Default",
+                "ProductVersionName": "Regular",
+                "CurrencyName": "USD",
+                "UnitofMeasureName": "Each"
+              }
+            ],
+            "ChoiceImages": null
+          }
+        ]
+      }
+    ],
+    "CompanyKey": "A0FB3825-C7AE-11D3-896A-00105A7027AA",
+    "AccessKey": "BD88B4B72AF297DC9B09E70B7D84A27C",
+    "ignorePriceOnOrder": true,
+    "isLocked": true,
+    "isPublic": true
+  }
