@@ -29,6 +29,7 @@ type ChoiceSku = {
 	MaxImprintColors: string;
 	MinimumPerOrder: string;
 };
+
 const csvPath = path.resolve(__dirname, '../testData/testSupplierData.csv');
 
 fs.createReadStream(csvPath)
@@ -37,11 +38,12 @@ fs.createReadStream(csvPath)
 	.on('end', () => {
 		const [, ...productRows] = results;
 
-		const products = productRows.map(rowToProduct);
+		const choices = productRows.map(rowToProduct);
+		console.log(choices[0].ProductName);
 	});
 
 function rowToProduct(row: string[]): ChoiceSku {
-	const ChoiceSku = {
+	return {
 		ProductName: row[0],
 		ProductDescription: row[1],
 		ManufacturerName: row[2],
@@ -66,5 +68,4 @@ function rowToProduct(row: string[]): ChoiceSku {
 		MaxImprintColors: row[21],
 		MinimumPerOrder: row[22],
 	};
-	return;
 }
